@@ -1,5 +1,5 @@
 
-import { readContacts } from "../../utils/readContacts.js";
+import { readContacts } from "../utils/readContacts.js";
 
 export const countContacts = async () => {
     const contact = await readContacts();
