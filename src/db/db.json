@@ -56,13 +56,6 @@
     "job": "Global Implementation Director"
   },
   {
-    "id": "873eff64-7d26-4274-a6ed-2d34c2ea39e8",
-    "name": "Jean Donnelly",
-    "phone": "742-267-7116 x97468",
-    "email": "Cathryn_Schuster@yahoo.com",
-    "job": "Legacy Security Manager"
-  },
-  {
     "id": "9e30d2e6-4215-4e65-9d9c-7b8bd609ea09",
     "name": "Melody Tremblay",
     "phone": "1-256-333-8156 x4327",
@@ -82,5 +75,12 @@
     "phone": "1-806-910-4360 x2379",
     "email": "Shanna.Price@hotmail.com",
     "job": "District Web Facilitator"
+  },
+  {
+    "id": "873a3130-27f8-40e4-8608-2f36cb4b7414",
+    "name": "Angelo Abbott",
+    "phone": "1-410-395-8711",
+    "email": "Doris71@hotmail.com",
+    "job": "Product Functionality Liaison"
   }
 ]
